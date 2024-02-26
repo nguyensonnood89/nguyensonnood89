@@ -1,2 +1,6 @@
+#include <stdio.h>
 
-xin chào
+int main() {
+  printf("Hello World!");
+  return 0;
+}
